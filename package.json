@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/node-debugger-lab#readme",
   "devDependencies": {
-    "mocha": "2.4.5",
-    "chai": "3.5.0"
+    "chai": "3.5.0",
+    "mocha": "^8.3.0"
+  },
+  "dependencies": {
+    "debug": "^4.3.1",
+    "mocha-multi": "^1.1.3"
   }
 }
